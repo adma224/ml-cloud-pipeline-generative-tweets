@@ -1,8 +1,7 @@
 # Generative Tweet ML Pipeline Project
 
-**April 13th, 2024 - Update**
-
-I am reworking this project to adapt my inference containers to the Sagemaker hosting services through the SageMaker TensorFlow Serving libraries available for the Python SDK. This will prolongue the duration of my project, but will allow me to have much more flexibility to train my models in my own GPUs and then host them in Sagemaker.
+>**April 13th, 2024 - Update**
+I am reworking this project to adapt my inference containers to the Sagemaker hosting services through the SageMaker TensorFlow Serving libraries available for the Python SDK. This rework will prolongue the duration of my project, but will allow me to have much more flexibility to train my models in my own GPUs and then host them in Sagemaker.
 
 ## Project Overview
 
