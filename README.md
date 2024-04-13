@@ -5,6 +5,8 @@ I am reworking this project to adapt my inference containers to the Sagemaker ho
 
 ## Project Overview
 
+[Infrastructure Diagram](https://github.com/adma224/ml-cloud-pipeline-generative-tweets/blob/main/infrastructure_diagram.png)
+
 The Generative Tweet ML Pipeline project is currently under construction. This project is for a machine learning pipeline to generate tweets using advanced natural language processing models. The pipeline is designed to leverage AWS cloud services for scalability, performance, and reliability. My goal is to put my machine learning fundamentals and my AWS certification experience to practice. 
 
 ## Goal
