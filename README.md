@@ -34,7 +34,7 @@ Tensorflow - Deep Learning framework
 - **Amazon Aurora Serverless**: Serverless SQL database with native integration with Quicksight
 - **AWS Secrets Manager**: Storing SQL databse credentials
 - **IAM**: roles and permissions to access different resources
-- **VPC**: deployment of a VPC for this project with a public and private subnet for each AZ. 
+- **VPC**
 
 ## Project Structure
 
